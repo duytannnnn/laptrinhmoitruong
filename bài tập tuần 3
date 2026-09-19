@@ -1,1 +1,102 @@
+using System;
+using System.Collections.Generic;
+using System.Windows.Forms;
 
+namespace Baitaptuan3
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string hoTen = txtHoTen.Text.Trim();
+
+            string gioiTinh = "";
+            if (radNam.Checked)
+            {
+                gioiTinh = "Nam";
+            }
+            else if (radNu.Checked)
+            {
+                gioiTinh = "Nữ";
+            }
+
+            string ngaySinh = dtpNgaySinh.Value.ToString("M/d/yyyy h:mm:ss tt");
+
+            List<string> soThichList = new List<string>();
+            if (chkTheThao.Checked)
+            {
+                soThichList.Add("Thể thao");
+            }
+            if (chkPhimAnh.Checked)
+            {
+                soThichList.Add("Phim ảnh");
+            }
+            if (chkDuLich.Checked)
+            {
+                soThichList.Add("Du lịch");
+            }
+
+            string soThich = string.Join(", ", soThichList);
+
+            string noiDung = $"Họ tên:{hoTen}, Giới tính: {gioiTinh}, Ngày sinh: {ngaySinh}, Sở thích: {soThich}";
+
+            MessageBox.Show(noiDung, "Thông tin người dùng", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void label1_Click(object sender, EventArgs e) { }
+        private void label2_Click(object sender, EventArgs e) { }
+        private void label3_Click(object sender, EventArgs e) { }
+        private void label4_Click(object sender, EventArgs e) { }
+        private void label5_Click(object sender, EventArgs e) { }
+        private void checkBox2_CheckedChanged(object sender, EventArgs e) { }
+        private void checkBox3_CheckedChanged(object sender, EventArgs e) { }
+
+        private void btnXuatThongTin_Click(object sender, EventArgs e)
+
+        {
+            string hoTen = txtHoTen.Text.Trim();
+
+            string gioiTinh = "";
+            if (radNam.Checked)
+            {
+                gioiTinh = "Nam";
+            }
+            else if (radNu.Checked)
+            {
+                gioiTinh = "Nữ";
+            }
+
+            string ngaySinh = dtpNgaySinh.Value.ToString("M/d/yyyy h:mm:ss tt");
+
+            List<string> soThichList = new List<string>();
+            if (chkTheThao.Checked)
+            {
+                soThichList.Add("Thể thao");
+            }
+            if (chkPhimAnh.Checked)
+            {
+                soThichList.Add("Phim ảnh");
+            }
+            if (chkDuLich.Checked)
+            {
+                soThichList.Add("Du lịch");
+            }
+
+            string soThich = string.Join(", ", soThichList);
+
+            string noiDung = $"Họ tên:{hoTen}, Giới tính: {gioiTinh}, Ngày sinh: {ngaySinh}, Sở thích: {soThich}";
+
+            MessageBox.Show(noiDung, "Thông tin người dùng", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void txtHoTen_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
