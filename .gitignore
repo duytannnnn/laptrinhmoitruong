@@ -1,4 +1,12 @@
+
 .vs/
 bin/
 obj/
 *.csproj.user
+
+.vscode/
+**/bin/
+**/obj/
+*.user
+*.suo
+

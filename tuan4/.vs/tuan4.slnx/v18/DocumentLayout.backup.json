@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\tuan4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32425525-F661-4E5C-9476-5AA3B0D9E86B}|tuan4\\tuan4.csproj|c:\\users\\acer\\source\\repos\\tuan4\\tuan4\\listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32425525-F661-4E5C-9476-5AA3B0D9E86B}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32425525-F661-4E5C-9476-5AA3B0D9E86B}|tuan4\\tuan4.csproj|c:\\users\\acer\\source\\repos\\tuan4\\tuan4\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32425525-F661-4E5C-9476-5AA3B0D9E86B}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32425525-F661-4E5C-9476-5AA3B0D9E86B}|tuan4\\tuan4.csproj|c:\\users\\acer\\source\\repos\\tuan4\\tuan4\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32425525-F661-4E5C-9476-5AA3B0D9E86B}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32425525-F661-4E5C-9476-5AA3B0D9E86B}|tuan4\\tuan4.csproj|c:\\users\\acer\\source\\repos\\tuan4\\tuan4\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32425525-F661-4E5C-9476-5AA3B0D9E86B}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32425525-F661-4E5C-9476-5AA3B0D9E86B}|tuan4\\tuan4.csproj|c:\\users\\acer\\source\\repos\\tuan4\\tuan4\\listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32425525-F661-4E5C-9476-5AA3B0D9E86B}|tuan4\\tuan4.csproj|solutionrelative:tuan4\\listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nh\u00E2n vi\u00EAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\tuan4\\tuan4\\Nh\u00E2n vi\u00EAn.cs",
+              "RelativeDocumentMoniker": "tuan4\\Nh\u00E2n vi\u00EAn.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\tuan4\\tuan4\\Nh\u00E2n vi\u00EAn.cs [Design]",
+              "RelativeToolTip": "tuan4\\Nh\u00E2n vi\u00EAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T04:22:50.464Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\tuan4\\tuan4\\nhanvien.cs",
+              "RelativeDocumentMoniker": "tuan4\\nhanvien.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\tuan4\\tuan4\\nhanvien.cs",
+              "RelativeToolTip": "tuan4\\nhanvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T04:18:06.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Listview.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\tuan4\\tuan4\\Listview.cs",
+              "RelativeDocumentMoniker": "tuan4\\Listview.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\tuan4\\tuan4\\Listview.cs",
+              "RelativeToolTip": "tuan4\\Listview.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T04:02:53.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nh\u00E2n vi\u00EAn.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\tuan4\\tuan4\\Nh\u00E2n vi\u00EAn.cs",
+              "RelativeDocumentMoniker": "tuan4\\Nh\u00E2n vi\u00EAn.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\tuan4\\tuan4\\Nh\u00E2n vi\u00EAn.cs",
+              "RelativeToolTip": "tuan4\\Nh\u00E2n vi\u00EAn.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T03:51:43.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Listview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\tuan4\\tuan4\\Listview.cs",
+              "RelativeDocumentMoniker": "tuan4\\Listview.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\tuan4\\tuan4\\Listview.cs [Design]",
+              "RelativeToolTip": "tuan4\\Listview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T03:28:31.366Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
