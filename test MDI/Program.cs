@@ -1,4 +1,4 @@
-namespace Baitaptuan3
+namespace test_MDI
 {
     internal static class Program
     {

@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Documents\\laptrinhmoitruong\\th\u1EF1c h\u00E0nh\\lab02-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC18E992-8BA1-3E65-0751-AE999643A472}|M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj|c:\\users\\acer\\documents\\laptrinhmoitruong\\th\u1EF1c h\u00E0nh\\lab02-02\\m\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC18E992-8BA1-3E65-0751-AE999643A472}|M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj|solutionrelative:m\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC18E992-8BA1-3E65-0751-AE999643A472}|M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj|c:\\users\\acer\\documents\\laptrinhmoitruong\\th\u1EF1c h\u00E0nh\\lab02-02\\m\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC18E992-8BA1-3E65-0751-AE999643A472}|M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj|solutionrelative:m\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC18E992-8BA1-3E65-0751-AE999643A472}|M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj|c:\\users\\acer\\documents\\laptrinhmoitruong\\th\u1EF1c h\u00E0nh\\lab02-02\\m\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BC18E992-8BA1-3E65-0751-AE999643A472}|M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj|solutionrelative:m\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\laptrinhmoitruong\\th\u1EF1c h\u00E0nh\\lab02-02\\M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs",
+              "RelativeDocumentMoniker": "M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\laptrinhmoitruong\\th\u1EF1c h\u00E0nh\\lab02-02\\M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs [Design]",
+              "RelativeToolTip": "M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T01:49:57.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\laptrinhmoitruong\\th\u1EF1c h\u00E0nh\\lab02-02\\M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs",
+              "RelativeDocumentMoniker": "M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\laptrinhmoitruong\\th\u1EF1c h\u00E0nh\\lab02-02\\M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs",
+              "RelativeToolTip": "M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T00:59:30.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 93,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\laptrinhmoitruong\\th\u1EF1c h\u00E0nh\\lab02-02\\M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj",
+              "RelativeDocumentMoniker": "M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj",
+              "ToolTip": "C:\\Users\\acer\\Documents\\laptrinhmoitruong\\th\u1EF1c h\u00E0nh\\lab02-02\\M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj",
+              "RelativeToolTip": "M\u00E1y t\u00EDnh 4 ph\u00E9p t\u00EDnh.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T00:55:22.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
