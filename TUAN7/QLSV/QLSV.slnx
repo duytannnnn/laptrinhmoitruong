@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QLSV.BLL/QLSV.BLL.csproj" />
+  <Project Path="QLSV.DAL/QLSV.DAL.csproj" />
+  <Project Path="QLSV.UI/QLSV.UI.csproj" />
+</Solution>
