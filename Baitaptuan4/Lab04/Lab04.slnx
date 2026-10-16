@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Models/">
+    <File Path="Khoa.cs" />
+    <File Path="QuanLySinhVienDbContext.cs" />
+    <File Path="SinhVien.cs" />
+  </Folder>
+  <Project Path="Lab04.csproj" />
+</Solution>
